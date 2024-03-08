@@ -4,9 +4,10 @@ dnspython
 pandas
 numpy
 ensure
-pytest
+
 
 #dev requirements
+pytest
 tox
 black
 flake
