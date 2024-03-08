@@ -1,0 +1,15 @@
+pymongo
+pymongo[srv]
+dnspython
+pandas
+numpy
+ensure
+pytest
+
+#dev requirements
+tox
+black
+flake
+mypy
+
+-e .
