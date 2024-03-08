@@ -10,6 +10,6 @@ ensure
 pytest
 tox
 black
-flake
+flake8
 mypy
 
